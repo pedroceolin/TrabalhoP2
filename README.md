@@ -1,7 +1,4 @@
-Pedro Henrique Nascimento Ceolin
-RGM: 802.605
-
-https://trello.com/b/hzZKiy4x/trabalho-p2
+REPOSITORIO ABANDONADO DECIDIMOS FAZER EM DUPLA EU E O HENRIQUE LENIS
 
 
-Projeto da clinica Odontológica
+https://github.com/pedroceolin/TrabP2
